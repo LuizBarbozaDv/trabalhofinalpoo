@@ -41,10 +41,3 @@ Criar Categorias:
 ### Tecnologias Utilizadas
 - **Linguagem:** Java (versão 24)
 - **Biblioteca gráfica:** Swing
-
-### Estrutura de Pacotes
-src/
-└── contatos/
-├── model/        
-├── view/         
-└── main/    
